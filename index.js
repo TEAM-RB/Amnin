@@ -14,7 +14,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="YOUR URL";
+var hostURL="disciplinary-kimmy-team-rb.koyeb.app/";
 //TOGGLE for 1pt Proxy and Shorters
 var use1pt=true;
 
